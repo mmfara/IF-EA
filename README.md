@@ -61,6 +61,7 @@ The following fairness-enhancing techniques were explored in the study:
    - Disparate Impact (DI)
    - Equal Opportunity Difference (EOD)
    - Predictive Equality Difference (PED)
+   - Accuracy (Acc)
 
 <!--## Citation
 If you use this code for research purposes, please cite our paper:
