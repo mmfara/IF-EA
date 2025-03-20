@@ -9,19 +9,6 @@ This repository contains the Python code used to conduct the experiments describ
 
 The research explores the impact of integrating fairness-enhancing techniques across multiple phases (pre-processing, in-processing, and post-processing) in AI models for predicting recidivism risk. The study employs **multi-objective optimization** to identify fairness-accuracy trade-offs in recidivism prediction models.
 
-## Repository Structure
-```
-IF-EA/
-│── data/                 # Dataset used for experiments (COMPAS dataset processed)
-│── models/               # Trained models and saved outputs
-│── notebooks/            # Jupyter notebooks for running and visualizing experiments
-│── scripts/              # Python scripts for executing bias mitigation techniques
-│── results/              # Experimental results and analysis
-│── requirements.txt      # Dependencies
-│── README.md             # This file
-│── main.py               # Main script for running experiments
-```
-
 ## Installation and Setup
 ### Prerequisites
 Ensure you have Python (>=3.8) installed. The required dependencies can be installed using:
